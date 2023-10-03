@@ -16,6 +16,7 @@
     <None Remove="Patterns\03-FactoryAlternative\Behaviours\" />
     <None Remove="Patterns\04-Facade\" />
     <None Remove="Patterns\05-MVC\" />
+    <None Remove="Patterns\06-Observer\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Patterns\" />
@@ -26,5 +27,6 @@
     <Folder Include="Patterns\03-FactoryAlternative\Behaviours\" />
     <Folder Include="Patterns\04-Facade\" />
     <Folder Include="Patterns\05-MVC\" />
+    <Folder Include="Patterns\06-Observer\" />
   </ItemGroup>
 </Project>
