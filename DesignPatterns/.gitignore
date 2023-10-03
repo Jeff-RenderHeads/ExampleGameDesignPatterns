@@ -1,0 +1,36 @@
+﻿# .NET build and output directories
+bin/
+obj/
+
+# Visual Studio files
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.suo
+*.user
+*.suo
+*.suo
+*.suo
+
+# Visual Studio Code files
+.vscode/
+
+# NuGet
+packages/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Rider IDE
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
