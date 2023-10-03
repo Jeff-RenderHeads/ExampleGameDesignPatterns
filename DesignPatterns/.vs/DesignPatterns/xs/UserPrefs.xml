@@ -1,4 +1,53 @@
 ﻿<Properties StartupConfiguration="{1BCACEC1-66EC-459A-92A9-64CF8A27EC49}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.DesignPatterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/Patterns/03-Factory/FactoryAlternative.cs">
+    <Files>
+      <File FileName="DesignPatterns/Patterns/03-Factory/Factory.cs" Line="18" Column="8" />
+      <File FileName="DesignPatterns/Patterns/01-Singleton/Singleton.cs" Line="8" Column="48" />
+      <File FileName="DesignPatternsTests/Usings.cs" />
+      <File FileName="DesignPatterns/Patterns/02-Object Pool/ObjectPool.cs" Line="32" Column="22" />
+      <File FileName="DesignPatterns/Patterns/App.cs" Line="10" Column="40" />
+      <File FileName="DesignPatternsTests/SingletonTests.cs" Line="16" Column="51" />
+      <File FileName="DesignPatternsTests/01-SingletonTests (copy).cs" Line="26" Column="29" />
+      <File FileName="DesignPatternsTests/03-FactoryTests.cs" Line="28" Column="19" />
+      <File FileName="DesignPatterns/Patterns/03-Factory/Factory (copy).cs" Line="20" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPatterns" expanded="True">
+            <Node name="DesignPatterns">
+              <Node name="Patterns" expanded="True">
+                <Node name="01-Singleton" expanded="True" />
+                <Node name="02-Object Pool" expanded="True" />
+                <Node name="03-Factory" expanded="True">
+                  <Node name="FactoryAlternative.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="DesignPatternsTests">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DesignPatterns">
+            <Node name="DesignPatternsTests">
+              <Node name="DesignPatternsTests">
+                <Node name="FactoryTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
 </Properties>

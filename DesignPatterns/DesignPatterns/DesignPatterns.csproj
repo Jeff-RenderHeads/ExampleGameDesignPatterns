@@ -2,17 +2,25 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
     <None Remove="Patterns\" />
-    <None Remove="Patterns\Singleton\" />
+    <None Remove="Patterns\01-Singleton\" />
+    <None Remove="Patterns\02-Object Pool\" />
+    <None Remove="Patterns\03-Factory\" />
+    <None Remove="Patterns\03-FactoryAlternative\" />
+    <None Remove="Patterns\03-FactoryAlternative\Behaviours\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Patterns\" />
-    <Folder Include="Patterns\Singleton\" />
+    <Folder Include="Patterns\01-Singleton\" />
+    <Folder Include="Patterns\02-Object Pool\" />
+    <Folder Include="Patterns\03-Factory\" />
+    <Folder Include="Patterns\03-FactoryAlternative\" />
+    <Folder Include="Patterns\03-FactoryAlternative\Behaviours\" />
   </ItemGroup>
 </Project>
