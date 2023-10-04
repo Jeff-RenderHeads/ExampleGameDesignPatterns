@@ -6,7 +6,7 @@ using Microsoft.VisualStudio.TestPlatform.Utilities;
 
 namespace DesignPatternsTests
 {
-    public class Observer
+    public class ObserverTests
     {
         private StringWriter consoleOutput;
         private TextWriter originalConsoleOut;
